@@ -194,7 +194,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/*Changed footer class to an element class, also changed "h2" to "h4" to match the new html*/
+footer h4 {
     font-size: 20px;
 }
